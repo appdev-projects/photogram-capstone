@@ -1,5 +1,5 @@
-# rails-8-template
+# photogram-capstone
 
-For your AppDev Projects!
+Target: https://photogram-capstone.matchthetarget.com
 
 Some rights reserved — see [LICENSE.txt](LICENSE.txt)
